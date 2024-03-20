@@ -21,8 +21,8 @@ def base_train(model, trainloader, optimizer, scheduler, epoch, args):
     for i, batch in enumerate(tqdm_gen, 1):
         data, train_label = [_.cuda() for _ in batch]
 
-        data_1, train_label_1 = fusion_aug_image(data, train_label, args.mix_times, args, session=0)
-        data_2, train_label_2 = fusion_aug_image(data, train_label, args.mix_times, args, session=0)
+        # data_1, train_label_1 = fusion_aug_image(data, train_label, args.mix_times, args, session=0)
+        # data_2, train_label_2 = fusion_aug_image(data, train_label, args.mix_times, args, session=0)
         # data_1, train_label_1 = cutmix_aug_image(data, train_label, args.mix_times, 0, args)
         # data_2, train_label_2 = cutmix_aug_image(data, train_label, args.mix_times, 0, args)
     
