@@ -6,7 +6,7 @@ Current mainstream deep learning techniques exhibit an over-reliance on extensiv
 
 ![The overview of our proposed humankind memory-inspired FSCIL approach.](Fig/IJICAI.png)
 
-## Results
+## Performance
 ![xx](Fig/Result.png)
 | Method    | Session 0 | Session 1 | Session 2 | Session 3 | Session 4 | Session 5 | Session 6 | Session 7 | Session 8 | Average |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|------------|
