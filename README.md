@@ -8,7 +8,7 @@ Current mainstream deep learning techniques exhibit an over-reliance on extensiv
 
 ## Results
 ![xx](Fig/Result.png)
-| Method    | Session 1 | Session 2 | Session 3 | Session 4 | Session 5 | Session 6 | Session 7 | Session 8 | Session 9 | Session 10 |
+| Method    | Session 0 | Session 1 | Session 2 | Session 3 | Session 4 | Session 5 | Session 6 | Session 7 | Session 8 | Average |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|------------|
 | iCaRL     | 64.10     | 53.28     | 41.69     | 34.13     | 27.93     | 25.06     | 20.41     | 15.58     | 13.73     | 32.86      |
 | EEIL      | 64.10     | 53.11     | 43.71     | 35.15     | 28.96     | 24.98     | 21.01     | 17.26     | 15.85     | 33.79      |
